@@ -11,3 +11,4 @@ lxml
 SQLAlchemy
 psycopg2-binary
 streamlit
+python-dotenv
