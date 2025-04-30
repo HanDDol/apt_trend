@@ -1,0 +1,12 @@
+prefect
+prefect-docker
+prefect_aws
+sagemaker
+pandas
+boto3
+xgboost
+beautifulsoup4
+httpx
+lxml
+SQLAlchemy
+streamlit
