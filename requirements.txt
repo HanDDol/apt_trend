@@ -9,4 +9,5 @@ beautifulsoup4
 httpx
 lxml
 SQLAlchemy
+psycopg2-binary
 streamlit
